@@ -27,6 +27,7 @@ Classic NNs are usually composed of several fully connected layers. This means t
 # Deployment
 I've deployed the model over Heroku and also streamlit platform with the help of buildpack-apt which is necessary to deploy opencv model on heroku and streamlit.
 Deployment Link for Heroku - https://face-emotion1.herokuapp.com
+
 Deploymenet link for streamlit - https://share.streamlit.io/sumayabai/face-emotion-detection/main/app.py
 
 # Output
